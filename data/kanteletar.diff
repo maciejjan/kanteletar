@@ -1,0 +1,96 @@
+diff --git a/pg7078.txt b/pg7078.corrected.txt
+index 81bf136..58ad94c 100644
+--- a/pg7078.txt
++++ b/pg7078.corrected.txt
+@@ -1,4 +1,4 @@
+-﻿The Project Gutenberg eBook of Kanteletar: Suomen kansan wanhoja lauluja ja wirsiä
++The Project Gutenberg eBook of Kanteletar: Suomen kansan wanhoja lauluja ja wirsiä
+ 
+ This eBook is for the use of anyone anywhere in the United States and
+ most other parts of the world at no cost and with almost no restrictions
+@@ -177,7 +177,8 @@ ENSIMÄINEN KIRJA
+ 108.  Vangittu pannu
+ 109.  Tynnyrin puhe
+ 110.  Oluen synty
+-111.  Tehkäme iloinen ilta112.  Hyvä isäntä
++111.  Tehkäme iloinen ilta
++112.  Hyvä isäntä
+ 113.  Hyvä emäntä
+ 114.  Kiitos emännälle
+ 115.  Sopivaisia
+@@ -522,7 +523,7 @@ TOINEN KIRJA
+ 156.  Kun elin emoni luona
+ 157.  Olin kukkana kotona
+ 158.  Ahot täynnä armotuutta
+-150.  Ei ole aittahan asiita
++159.  Ei ole aittahan asiita
+ 160.  Yks' on kyyttö kytkyessä
+ 161.  Heitän hempiät tupani
+ 162.  Ei itkemätöntä aikaa
+@@ -8103,6 +8104,48 @@ a) Antiaisissa.
+           "Mistä vieras veen takoa?"--
+           "Minä vanhin sikkojasi,
+           Ensimmäinen emosi lapsi."
++
++          Virkkoi veikko naisellensa:
++          "Hanki syöä vierahalle!"--
++          Tuo veikon verinen nainen
++          Kantoi kaalia etehen,
++          Jost' oli rakki rasvan syönyt,
++          Koira suolan koetellunna.
++
++          Virkkoi veikko naisellensa:
++          "Tuo olutta vierahalle!"
++          Tuo veikon verinen nainen
++          Tuopi vettä vierahalle,
++          Ei sekänä siivon vettä:
++          Sisaresten silmivettä,
++          Kälysten käenpesemä-.
++
++
++
++          148. Kun itket, hyvinki itke.
++
++            (Morsiamelle tuttaviltansa.)
++          Itke, itke meiän neito!
++          Kun itket, hyvinki itke,
++          Itke meiän itkettäissä.
++          Kun et itke itkettäissä,
++          Itket toiste tullessasi,
++          Itket kynsin kynnyksessä,
++          Hampahin ovihaoissa,
++          Itke tulville tupasen,
++          Siltalauat lainehille,
++          Kyynärän joka sopelle,
++          Lammit keskilattialle,
++          Kun tulet ison kotihin,
++          Kun löyät isosi vanhan
++          Kujahan kukistunehen,
++          Kartanolle kaatunehen.
++
++          Itke, itke meiän neito!
++          Kun itket, hyvinki itke.
++          Kun et itke itkettäissä,
++          Itket toiste tullessasi,
++          Kun tulet emon kotihin
+           Kun löyät emosi vanhan
+           Läävähän läkähtynehen,
+           Kuollehen kupo sylihin.
+@@ -11447,7 +11490,7 @@ IV. Lasten lauluja.
+ 
+ 
+ 
+-TOINEN KIRJA.
++TOINEN KIRJA
+ 
+ 
+      Viel' on virttää tieossani,
+@@ -14976,7 +15019,7 @@ I. Tyttöin lauluja.
+ 
+ 
+ 
+-          114: Oisinko pojaksi luotu.
++          114. Oisinko pojaksi luotu.
+ 
+ 
+           Kun oisin poikana poloinen,
